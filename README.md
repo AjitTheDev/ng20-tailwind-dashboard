@@ -1,3 +1,6 @@
+# ng20-tailwind-dashboard
+A modern Angular 20 admin dashboard starter built with Tailwind CSS. Includes dark mode, authentication pages, sidebar &amp; topbar layout, routing, and reusable UI components, perfect for dashboards, SaaS apps, and admin portals.
+
 # NgTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
