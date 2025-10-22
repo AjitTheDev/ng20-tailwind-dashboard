@@ -3,7 +3,7 @@ A modern Angular 20 admin dashboard starter built with Tailwind CSS. Includes da
 
 # NgTemplate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 20.6.3.
 
 ## Development server
 
